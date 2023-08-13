@@ -1,7 +1,7 @@
 # Flask-Inertia cookiecutters
 
-[Cookiecutters templates](https://github.com/cookiecutter/cookiecutter)
-for [Flask-inertia](https://github.com/j0ack/flask-inertia).
+[Cookiecutter templates](https://github.com/cookiecutter/cookiecutter)
+for [Flask-Inertia](https://github.com/j0ack/flask-inertia).
 
 ## Features
 
